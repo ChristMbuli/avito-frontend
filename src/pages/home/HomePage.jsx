@@ -114,9 +114,7 @@ const HomePage = () => {
                 Business Model Canva
               </h1>
               <p className="mt-4 text-gray-600 dark:text-gray-300">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut
-                quia asperiores alias vero magnam recusandae adipisci ad vitae
-                laudantium quod rem voluptatem eos accusantium cumque.
+                Etando facilite la réservation de logements pour les étudiants étrangers au Maroc et les aide avec les démarches administratives. Nous utilisons un site web, une application mobile et des partenariats universitaires. Nos revenus proviennent des frais de service, des abonnements premium et des partenariats
               </p>
               <div className="mt-6">
                 <Link
