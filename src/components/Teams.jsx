@@ -1,5 +1,5 @@
 import React from "react";
-import MICHEL from "../images/michel.jpeg";
+import MICHEL from "../images/zeze.jpeg";
 import ARIEL from "../images/ariel.jpeg";
 import DAPH from "../images/daph.jpeg";
 import CHRIST from "../images/christ.jpeg";

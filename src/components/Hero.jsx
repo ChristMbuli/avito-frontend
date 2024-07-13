@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import VIDEO from "../images/video.webm";
 
 const Hero = () => {
   return (
@@ -22,7 +23,7 @@ const Hero = () => {
         </div>
         <div className="md:w-1/2">
           <video
-            src="https://res.cloudinary.com/do2qwucmp/video/upload/v1720824828/as2zhia3x54xejrkomfr.webm"
+            src={VIDEO}
             autoPlay
             loop
             muted
